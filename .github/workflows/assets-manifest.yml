@@ -1,0 +1,32 @@
+name: Update asset manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "assets/**"
+      - "!assets/manifest.json"
+      - "scripts/generate_manifest.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate manifest
+        run: python3 scripts/generate_manifest.py
+      - name: Commit changed manifest
+        run: |
+          if git diff --quiet -- assets/manifest.json; then
+            exit 0
+          fi
+          git add assets/manifest.json
+          git -c user.name="github-actions[bot]" \
+            -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "Update asset manifest"
+          git push
