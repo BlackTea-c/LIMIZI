@@ -1,6 +1,6 @@
 {
-  "version": "66b961e405f66236e74dfd2aa08d902dfae86c70",
-  "generatedAt": "2026-08-28T06:26:04.903181+00:00",
+  "version": "686b8b0f00e1a9722c9226a6be2fe4fa007495f0",
+  "generatedAt": "2026-09-04T12:38:27.433056+00:00",
   "paths": [
     "assets/achievements_cg/凌纱璃/凌纱璃_achievement_01.png",
     "assets/achievements_cg/凌纱璃/凌纱璃_achievement_02.png",
@@ -319,11 +319,14 @@
     "assets/charactor_lihui/晴绘/晴绘_portrait_01.png",
     "assets/charactor_lihui/李汐子/李汐子_portrait_01.jpg",
     "assets/charactor_lihui/李汐子/李汐子_portrait_02.png",
+    "assets/charactor_lihui/李沐子/李沐子-正常.mp4",
+    "assets/charactor_lihui/李沐子/李沐子-私服.mp4",
     "assets/charactor_lihui/李沐子/李沐子_portrait_01.png",
     "assets/charactor_lihui/李沐子/李沐子_portrait_02.png",
     "assets/charactor_lihui/李沐子/李沐子_portrait_03.png",
     "assets/charactor_lihui/李沐子/李沐子_portrait_04.png",
     "assets/charactor_lihui/李沐子/李沐子_portrait_05.png",
+    "assets/charactor_lihui/李沐子/李沐子_校服.mp4",
     "assets/charactor_lihui/李玄子/李玄子_portrait_01.png",
     "assets/charactor_lihui/林暮雪/林暮雪_portrait_01.png",
     "assets/charactor_lihui/林暮雪/林暮雪_portrait_02.png",
