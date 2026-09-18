@@ -1,6 +1,6 @@
 {
-  "version": "871667b7f0db579686dc4c84f0a47cb4a4ffe4ec",
-  "generatedAt": "2026-09-16T08:53:18.645891+00:00",
+  "version": "b8d4fc566edd6417eb41b088bf2b342ee41e500c",
+  "generatedAt": "2026-09-18T05:03:10.114222+00:00",
   "paths": [
     "assets/achievements_cg/凌纱璃/凌纱璃_achievement_01.png",
     "assets/achievements_cg/凌纱璃/凌纱璃_achievement_02.png",
@@ -411,6 +411,9 @@
     "assets/charactor_avatar/颜心/颜心_avatar_smile.png",
     "assets/charactor_avatar/颜心/颜心_avatar_surprised.png",
     "assets/charactor_avatar/马桦彤/马桦彤_avatar_default.png",
+    "assets/charactor_avatar/鬼面/鬼面_avatar_battle.png",
+    "assets/charactor_avatar/鬼面/鬼面_avatar_default.png",
+    "assets/charactor_avatar/鬼面/鬼面_avatar_hurt.png",
     "assets/charactor_avatar/鱼汐/鱼汐_avatar_angry.png",
     "assets/charactor_avatar/鱼汐/鱼汐_avatar_battle.png",
     "assets/charactor_avatar/鱼汐/鱼汐_avatar_default.png",
@@ -513,12 +516,14 @@
     "assets/charactor_lihui/洛茜娅/洛茜娅_portrait_01.png",
     "assets/charactor_lihui/洛茜娅/洛茜娅_portrait_02.png",
     "assets/charactor_lihui/洛茜娅/洛茜娅_portrait_03.png",
+    "assets/charactor_lihui/洛茜娅/洛茜娅_portrait_04.png",
     "assets/charactor_lihui/流念/流念_portrait_01.png",
     "assets/charactor_lihui/清素素/清素素_portrait_01.png",
     "assets/charactor_lihui/清素素/清素素_portrait_02.png",
     "assets/charactor_lihui/澜漪/232421_00001_audio.mp4",
     "assets/charactor_lihui/澜漪/澜漪_portrait_01.png",
     "assets/charactor_lihui/澜漪/澜漪_portrait_02.png",
+    "assets/charactor_lihui/澜漪/澜漪_portrait_03.png",
     "assets/charactor_lihui/熬烈/熬烈_portrait_01.png",
     "assets/charactor_lihui/爱丽丝/爱丽丝_portrait_01.png",
     "assets/charactor_lihui/玄龟老人/玄龟老人_portrait_01.png",
@@ -569,12 +574,14 @@
     "assets/charactor_lihui/颜心/颜心_portrait_01.png",
     "assets/charactor_lihui/马桦彤/马桦彤_portrait_01.png",
     "assets/charactor_lihui/鬼面/鬼面_portrait_01.png",
+    "assets/charactor_lihui/鬼面/鬼面_portrait_02.png",
     "assets/charactor_lihui/鱼汐/鱼汐_portrait_01.png",
     "assets/charactor_lihui/鱼汐/鱼汐_portrait_02.png",
     "assets/charactor_lihui/龙灵儿/龙灵儿_portrait_01.png",
     "assets/charactor_lihui/龙绛微/231629_00001_audio.mp4",
     "assets/charactor_lihui/龙绛微/龙绛微_portrait_01.png",
-    "assets/charactor_lihui/龙绛微/龙绛微_portrait_02.png"
+    "assets/charactor_lihui/龙绛微/龙绛微_portrait_02.png",
+    "assets/charactor_lihui/龙绛微/龙绛微_portrait_03.png"
   ],
   "aliases": {
     "沐子": [
