@@ -1,6 +1,6 @@
 {
-  "version": "b8d4fc566edd6417eb41b088bf2b342ee41e500c",
-  "generatedAt": "2026-09-18T05:03:10.114222+00:00",
+  "version": "08a64643d5566ece3185de2ea471f4d6325a7e33",
+  "generatedAt": "2026-09-18T11:18:58.756087+00:00",
   "paths": [
     "assets/achievements_cg/凌纱璃/凌纱璃_achievement_01.png",
     "assets/achievements_cg/凌纱璃/凌纱璃_achievement_02.png",
@@ -433,6 +433,7 @@
     "assets/charactor_avatar/龙绛微/龙绛微_avatar_smile.png",
     "assets/charactor_avatar/龙绛微/龙绛微_avatar_surprised.png",
     "assets/charactor_lihui/万法天尊/万法天尊_portrait_01.png",
+    "assets/charactor_lihui/东云 绯雪/东云 绯雪_portrait_01.png",
     "assets/charactor_lihui/付琪靺/付琪靺_portrait_01.png",
     "assets/charactor_lihui/付血红/付血红_portrait_01.png",
     "assets/charactor_lihui/信/信_portrait_01.png",
@@ -500,6 +501,7 @@
     "assets/charactor_lihui/李玄子/232020_00001_audio.mp4",
     "assets/charactor_lihui/李玄子/李玄子_portrait_01.png",
     "assets/charactor_lihui/李玄子/李玄子_portrait_02.png",
+    "assets/charactor_lihui/林悠悠/林悠悠_portrait_01.png",
     "assets/charactor_lihui/林暮雪/林暮雪_portrait_01.png",
     "assets/charactor_lihui/林暮雪/林暮雪_portrait_02.png",
     "assets/charactor_lihui/柳朝缺/柳朝缺_portrait_01.png",
@@ -509,6 +511,8 @@
     "assets/charactor_lihui/楚云飞/楚云飞_portrait_02.png",
     "assets/charactor_lihui/江怜儿/江怜儿_portrait_01.png",
     "assets/charactor_lihui/江怜儿/江怜儿_portrait_02.png",
+    "assets/charactor_lihui/沈素殷/沈素殷_portrait_01.png",
+    "assets/charactor_lihui/沈素殷/沈素殷_portrait_02.png",
     "assets/charactor_lihui/泠鸢/泠鸢.mp4",
     "assets/charactor_lihui/泠鸢/泠鸢_01.png",
     "assets/charactor_lihui/洛牙/洛牙_portrait_01.png",
